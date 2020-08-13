@@ -1,4 +1,4 @@
-#Export MySql DB using Windows PowerShell
+### Export MySql DB using Windows PowerShell
 
 Open your PowerShell as Administrator
 
@@ -23,6 +23,3 @@ Modify _export-db.ps1_
 ```
 
 Thanks
-
-
-
